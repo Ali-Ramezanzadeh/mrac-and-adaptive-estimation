@@ -1,0 +1,257 @@
+{
+  "method": "Static ZIP/XML inspection only; MATLAB and Simulink were not executed.",
+  "models": [
+    {
+      "original_relative_path": "HW1/Adaptive.slx",
+      "saved_release": "R2022b",
+      "saved_matlab_version": "9.13.0.2049777",
+      "solver": "VariableStepAuto",
+      "start_time": "0.0",
+      "stop_time": "50",
+      "relative_tolerance": "1e-3",
+      "absolute_tolerance": "auto",
+      "saved_fixed_step_setting": "auto",
+      "load_external_input": "off",
+      "load_initial_state": "off",
+      "return_workspace_outputs": "on",
+      "workspace_output_name": "out",
+      "blocks_including_nested_and_commented_subsystems": 179,
+      "scope_count": 4,
+      "manual_switch_count": 10,
+      "embedded_matlab_function_count": 0,
+      "library_references": [
+        "simulink/Sources/Band-Limited\nWhite Noise"
+      ],
+      "top_level_subsystems": [
+        {
+          "name": "Q1",
+          "commented": "off"
+        },
+        {
+          "name": "Q2",
+          "commented": "off"
+        }
+      ],
+      "nonempty_executable_callbacks_found": 0,
+      "model_reference_block_count": 0,
+      "from_workspace_block_count": 0,
+      "to_workspace_block_count": 0,
+      "archive_crc_check_passed": true
+    },
+    {
+      "original_relative_path": "HW2/HW2.slx",
+      "saved_release": "R2022b",
+      "saved_matlab_version": "9.13.0.2049777",
+      "solver": "VariableStepAuto",
+      "start_time": "0.0",
+      "stop_time": "50",
+      "relative_tolerance": "1e-3",
+      "absolute_tolerance": "auto",
+      "saved_fixed_step_setting": "auto",
+      "load_external_input": "off",
+      "load_initial_state": "off",
+      "return_workspace_outputs": "on",
+      "workspace_output_name": "out",
+      "blocks_including_nested_and_commented_subsystems": 370,
+      "scope_count": 8,
+      "manual_switch_count": 11,
+      "embedded_matlab_function_count": 1,
+      "library_references": [],
+      "top_level_subsystems": [
+        {
+          "name": "Direct Control",
+          "commented": "off"
+        },
+        {
+          "name": "Indirect Control",
+          "commented": "off"
+        },
+        {
+          "name": "Non Linear Sys Indirect Control",
+          "commented": "off"
+        }
+      ],
+      "nonempty_executable_callbacks_found": 0,
+      "model_reference_block_count": 0,
+      "from_workspace_block_count": 0,
+      "to_workspace_block_count": 0,
+      "archive_crc_check_passed": true
+    },
+    {
+      "original_relative_path": "HW3/HW3.slx",
+      "saved_release": "R2022b",
+      "saved_matlab_version": "9.13.0.2049777",
+      "solver": "VariableStepAuto",
+      "start_time": "0.0",
+      "stop_time": "200",
+      "relative_tolerance": "1e-3",
+      "absolute_tolerance": "auto",
+      "saved_fixed_step_setting": "0.0001",
+      "load_external_input": "off",
+      "load_initial_state": "off",
+      "return_workspace_outputs": "on",
+      "workspace_output_name": "out",
+      "blocks_including_nested_and_commented_subsystems": 114,
+      "scope_count": 3,
+      "manual_switch_count": 4,
+      "embedded_matlab_function_count": 0,
+      "library_references": [
+        "simulink/Sources/Band-Limited\nWhite Noise"
+      ],
+      "top_level_subsystems": [
+        {
+          "name": "Subsystem1",
+          "commented": "off"
+        },
+        {
+          "name": "Unstable system",
+          "commented": "off"
+        }
+      ],
+      "nonempty_executable_callbacks_found": 0,
+      "model_reference_block_count": 0,
+      "from_workspace_block_count": 0,
+      "to_workspace_block_count": 0,
+      "archive_crc_check_passed": true
+    },
+    {
+      "original_relative_path": "HW4/HW4.slx",
+      "saved_release": "R2022b",
+      "saved_matlab_version": "9.13.0.2049777",
+      "solver": "FixedStepAuto",
+      "start_time": "0.0",
+      "stop_time": "1500",
+      "relative_tolerance": "1e-3",
+      "absolute_tolerance": "auto",
+      "saved_fixed_step_setting": "0.001",
+      "load_external_input": "off",
+      "load_initial_state": "off",
+      "return_workspace_outputs": "on",
+      "workspace_output_name": "out",
+      "blocks_including_nested_and_commented_subsystems": 95,
+      "scope_count": 3,
+      "manual_switch_count": 1,
+      "embedded_matlab_function_count": 0,
+      "library_references": [
+        "simulink/Sources/Band-Limited\nWhite Noise"
+      ],
+      "top_level_subsystems": [
+        {
+          "name": "Subsystem",
+          "commented": "off"
+        }
+      ],
+      "nonempty_executable_callbacks_found": 0,
+      "model_reference_block_count": 0,
+      "from_workspace_block_count": 0,
+      "to_workspace_block_count": 0,
+      "archive_crc_check_passed": true
+    },
+    {
+      "original_relative_path": "HW5/HW5.slx",
+      "saved_release": "R2022b",
+      "saved_matlab_version": "9.13.0.2049777",
+      "solver": "VariableStepAuto",
+      "start_time": "0.0",
+      "stop_time": "1000",
+      "relative_tolerance": "1e-3",
+      "absolute_tolerance": "auto",
+      "saved_fixed_step_setting": "0.0001",
+      "load_external_input": "off",
+      "load_initial_state": "off",
+      "return_workspace_outputs": "on",
+      "workspace_output_name": "out",
+      "blocks_including_nested_and_commented_subsystems": 533,
+      "scope_count": 15,
+      "manual_switch_count": 15,
+      "embedded_matlab_function_count": 0,
+      "library_references": [
+        "simulink/Sources/Band-Limited\nWhite Noise",
+        "simulink/Sources/Ramp"
+      ],
+      "top_level_subsystems": [
+        {
+          "name": "Q1",
+          "commented": "off"
+        },
+        {
+          "name": "Q2",
+          "commented": "off"
+        },
+        {
+          "name": "Q3",
+          "commented": "off"
+        },
+        {
+          "name": "Q3.1",
+          "commented": "on"
+        }
+      ],
+      "nonempty_executable_callbacks_found": 0,
+      "model_reference_block_count": 0,
+      "from_workspace_block_count": 0,
+      "to_workspace_block_count": 0,
+      "archive_crc_check_passed": true
+    },
+    {
+      "original_relative_path": "HW6/HW6.slx",
+      "saved_release": "R2022b",
+      "saved_matlab_version": "9.13.0.2049777",
+      "solver": "VariableStepAuto",
+      "start_time": "0.0",
+      "stop_time": "10",
+      "relative_tolerance": "1e-3",
+      "absolute_tolerance": "auto",
+      "saved_fixed_step_setting": "0.01",
+      "load_external_input": "off",
+      "load_initial_state": "off",
+      "return_workspace_outputs": "on",
+      "workspace_output_name": "out",
+      "blocks_including_nested_and_commented_subsystems": 100,
+      "scope_count": 4,
+      "manual_switch_count": 1,
+      "embedded_matlab_function_count": 0,
+      "library_references": [
+        "simulink/Sources/Band-Limited\nWhite Noise"
+      ],
+      "top_level_subsystems": [],
+      "nonempty_executable_callbacks_found": 0,
+      "model_reference_block_count": 0,
+      "from_workspace_block_count": 0,
+      "to_workspace_block_count": 0,
+      "archive_crc_check_passed": true
+    }
+  ],
+  "hw6_live_script": {
+    "original_relative_path": "HW6/HW6.mlx",
+    "code_block_count": 12,
+    "initial_sampling_time_seconds": 0.1,
+    "initial_duration_seconds": 40,
+    "initial_theta_true": [
+      0,
+      0.01,
+      0,
+      2,
+      0,
+      1
+    ],
+    "random_input": "randn(T,1), without a saved RNG seed in the code.",
+    "self_contained_initialization": true,
+    "simulation_invocations_found": false,
+    "section_order_required": true,
+    "archive_crc_check_passed": true
+  },
+  "notes": [
+    "The six models appear self-contained by static inspection: all dynamics/initialization parameters inspected are numeric and no external input loading is enabled. This is not a successful compile/run check.",
+    "HW2 uses an embedded MATLAB Function represented internally as sf_sfun; this is not an absent external custom S-function.",
+    "HW1 retains Simscape product metadata but no Simscape blocks or library references were found; Simscape is not a confirmed required product.",
+    "Each saved model captures one manual-switch/parameter configuration. The reports cover additional experiments that require manually changing settings.",
+    "HW5/Q3.1 is commented out in the saved model.",
+    "HW6.slx uses 0.01-second delay/ZOH sampling and a 10-second stop time, while HW6.mlx initializes 0.1-second sampling and 40 seconds.",
+    "HW6.slx plant feedback coefficients include [0,-0.01,0], while the Live Script initial theta_true starts [0,+0.01,0]; retain these as distinct saved experiments.",
+    "HW6.slx observed output yt comes from theta-transpose times the delayed regressor, with theta second component = a2 times the default Gain value +1. Thus its active output feedback coefficient is -0.01. A separate canonical state chain subtracts a_i terms, but its x1 output does not feed yt.",
+    "HW6.slx Product6 (SID90) has Inputs=3, so its three inputs phi, phi-transpose times phi, and prediction error are multiplied together. It differs from the normalized projection update in HW6.mlx, where the squared regressor norm is the denominator. Review this saved prototype before using it as the normalized projection implementation.",
+    "HW5 active Q3 filters use Lambda=[[0,1],[-1,-1]] and l=[1,2] with positive summing junctions, confirming the report matrices and the numerator [s+3,2s-1], rather than the printed numerator [s+1,2s+1].",
+    "Saved FixedStep values describe a configuration field; the actual saved solver is VariableStepAuto in all six models."
+  ]
+}

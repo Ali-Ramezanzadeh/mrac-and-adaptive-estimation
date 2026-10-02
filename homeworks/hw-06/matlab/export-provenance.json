@@ -1,0 +1,19 @@
+{
+  "source": "HW6.mlx",
+  "code_cell_count": 12,
+  "code_cell_sha256": [
+    "e8fa4f8d70b30d98f7ce0f5b914265545aaec0fbad12f550d687276aef9f1305",
+    "47e1441eb15eb7189c9d6b8bc03735fe0af97bb02e850dfbb45062c5da9e271f",
+    "23b5e31f9bcf9d1de1868d37fe0fc01f4ec635b235ca3b88784ebbda8ae79bc6",
+    "8191a0acbe6293e53daf991971afd44d7ee9d5007a129f1b32dbc3d39ca59221",
+    "7d86c0d7d352819e1cc19326d16ee76dae73298c9ee917fbbd0fcbb4e8dbeafc",
+    "11a6e3ea7a888f0c8bcf50f011ddac66464c3f672e567bb7b12ffe36b5ec90f3",
+    "c5ec1bca06fed0be2bbddb529a9fc8f0abba5e7bae73ecde08a18736d531d142",
+    "a1b652f1ff78b8b1ee45b92dcfe6bce491f1981d1193cb1b4af0a745c9f97793",
+    "b88f2ebef4816847465423edf3ed10cda30d2f6d3070000accd382c3f83482fa",
+    "8b71ded949b04c9b873fbec53fdc3429e81ae6698af7cd39c7ef502fc84dbc4e",
+    "64c9f01fe458d6ec841992094eca458f46de407e50100ce0e45e86db883c356e",
+    "99f00e7fcff5d2b0336027a7a63609982323299a369843098ca5c7029cd6e6b8"
+  ],
+  "method": "Read code-styled paragraphs from matlab/document.xml; prose becomes MATLAB comments; code is preserved."
+}

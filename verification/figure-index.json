@@ -1,0 +1,398 @@
+[
+  {
+    "homework": 1,
+    "file": "homeworks/hw-01/reports/figures/Q1.png"
+  },
+  {
+    "homework": 1,
+    "file": "homeworks/hw-01/reports/figures/Q1_A.jpg"
+  },
+  {
+    "homework": 1,
+    "file": "homeworks/hw-01/reports/figures/Q1_k.jpg"
+  },
+  {
+    "homework": 1,
+    "file": "homeworks/hw-01/reports/figures/Q2.png"
+  },
+  {
+    "homework": 1,
+    "file": "homeworks/hw-01/reports/figures/Q2_A.jpg"
+  },
+  {
+    "homework": 1,
+    "file": "homeworks/hw-01/reports/figures/Q2_B.jpg"
+  },
+  {
+    "homework": 2,
+    "file": "homeworks/hw-02/reports/figures/1.png"
+  },
+  {
+    "homework": 2,
+    "file": "homeworks/hw-02/reports/figures/10.png"
+  },
+  {
+    "homework": 2,
+    "file": "homeworks/hw-02/reports/figures/11.png"
+  },
+  {
+    "homework": 2,
+    "file": "homeworks/hw-02/reports/figures/12.png"
+  },
+  {
+    "homework": 2,
+    "file": "homeworks/hw-02/reports/figures/13.png"
+  },
+  {
+    "homework": 2,
+    "file": "homeworks/hw-02/reports/figures/2.png"
+  },
+  {
+    "homework": 2,
+    "file": "homeworks/hw-02/reports/figures/3.png"
+  },
+  {
+    "homework": 2,
+    "file": "homeworks/hw-02/reports/figures/4.png"
+  },
+  {
+    "homework": 2,
+    "file": "homeworks/hw-02/reports/figures/5.png"
+  },
+  {
+    "homework": 2,
+    "file": "homeworks/hw-02/reports/figures/6.png"
+  },
+  {
+    "homework": 2,
+    "file": "homeworks/hw-02/reports/figures/7.png"
+  },
+  {
+    "homework": 2,
+    "file": "homeworks/hw-02/reports/figures/8.png"
+  },
+  {
+    "homework": 2,
+    "file": "homeworks/hw-02/reports/figures/9.png"
+  },
+  {
+    "homework": 3,
+    "file": "homeworks/hw-03/reports/figures/Error_final.png"
+  },
+  {
+    "homework": 3,
+    "file": "homeworks/hw-03/reports/figures/Error_STEP.png"
+  },
+  {
+    "homework": 3,
+    "file": "homeworks/hw-03/reports/figures/Error_unstable.png"
+  },
+  {
+    "homework": 3,
+    "file": "homeworks/hw-03/reports/figures/Main.png"
+  },
+  {
+    "homework": 3,
+    "file": "homeworks/hw-03/reports/figures/Out_final.png"
+  },
+  {
+    "homework": 3,
+    "file": "homeworks/hw-03/reports/figures/Out_STEP.png"
+  },
+  {
+    "homework": 3,
+    "file": "homeworks/hw-03/reports/figures/Out_unstable.png"
+  },
+  {
+    "homework": 3,
+    "file": "homeworks/hw-03/reports/figures/Parameters_final.png"
+  },
+  {
+    "homework": 3,
+    "file": "homeworks/hw-03/reports/figures/Parameters_STEP.png"
+  },
+  {
+    "homework": 3,
+    "file": "homeworks/hw-03/reports/figures/Parameters_unstable.png"
+  },
+  {
+    "homework": 3,
+    "file": "homeworks/hw-03/reports/figures/Plant.png"
+  },
+  {
+    "homework": 4,
+    "file": "homeworks/hw-04/reports/figures/3Sine.png"
+  },
+  {
+    "homework": 4,
+    "file": "homeworks/hw-04/reports/figures/Error_3Sine.png"
+  },
+  {
+    "homework": 4,
+    "file": "homeworks/hw-04/reports/figures/error_final.png"
+  },
+  {
+    "homework": 4,
+    "file": "homeworks/hw-04/reports/figures/Error_step_sine.png"
+  },
+  {
+    "homework": 4,
+    "file": "homeworks/hw-04/reports/figures/final.png"
+  },
+  {
+    "homework": 4,
+    "file": "homeworks/hw-04/reports/figures/Parameters_3sine.png"
+  },
+  {
+    "homework": 4,
+    "file": "homeworks/hw-04/reports/figures/Parameters_step_sine.png"
+  },
+  {
+    "homework": 4,
+    "file": "homeworks/hw-04/reports/figures/Parm_final.png"
+  },
+  {
+    "homework": 4,
+    "file": "homeworks/hw-04/reports/figures/Plant.png"
+  },
+  {
+    "homework": 4,
+    "file": "homeworks/hw-04/reports/figures/Sim.png"
+  },
+  {
+    "homework": 4,
+    "file": "homeworks/hw-04/reports/figures/Step_sine.png"
+  },
+  {
+    "homework": 5,
+    "file": "homeworks/hw-05/reports/figures/AugmentedError_Sine.png"
+  },
+  {
+    "homework": 5,
+    "file": "homeworks/hw-05/reports/figures/AugmentedError_Step.png"
+  },
+  {
+    "homework": 5,
+    "file": "homeworks/hw-05/reports/figures/e1Q1Sine.png"
+  },
+  {
+    "homework": 5,
+    "file": "homeworks/hw-05/reports/figures/e1Q1Step.png"
+  },
+  {
+    "homework": 5,
+    "file": "homeworks/hw-05/reports/figures/e1Q1WhiteNoise.png"
+  },
+  {
+    "homework": 5,
+    "file": "homeworks/hw-05/reports/figures/e1Q2Sine.png"
+  },
+  {
+    "homework": 5,
+    "file": "homeworks/hw-05/reports/figures/e1Q2Step.png"
+  },
+  {
+    "homework": 5,
+    "file": "homeworks/hw-05/reports/figures/e1Q2WhiteNoise.png"
+  },
+  {
+    "homework": 5,
+    "file": "homeworks/hw-05/reports/figures/e1Q3Sine.png"
+  },
+  {
+    "homework": 5,
+    "file": "homeworks/hw-05/reports/figures/e1Q3Step.png"
+  },
+  {
+    "homework": 5,
+    "file": "homeworks/hw-05/reports/figures/e2Q3Sine.png"
+  },
+  {
+    "homework": 5,
+    "file": "homeworks/hw-05/reports/figures/e2Q3Step.png"
+  },
+  {
+    "homework": 5,
+    "file": "homeworks/hw-05/reports/figures/ErrorModel4.png"
+  },
+  {
+    "homework": 5,
+    "file": "homeworks/hw-05/reports/figures/ParametersQ1.png"
+  },
+  {
+    "homework": 5,
+    "file": "homeworks/hw-05/reports/figures/ParametersQ2.png"
+  },
+  {
+    "homework": 5,
+    "file": "homeworks/hw-05/reports/figures/Q1Main.png"
+  },
+  {
+    "homework": 5,
+    "file": "homeworks/hw-05/reports/figures/Q2Main.png"
+  },
+  {
+    "homework": 5,
+    "file": "homeworks/hw-05/reports/figures/Q3Main.png"
+  },
+  {
+    "homework": 5,
+    "file": "homeworks/hw-05/reports/figures/SineQ1_ypym.png"
+  },
+  {
+    "homework": 5,
+    "file": "homeworks/hw-05/reports/figures/SineQ2_ypym.png"
+  },
+  {
+    "homework": 5,
+    "file": "homeworks/hw-05/reports/figures/SineQ3_ypym.png"
+  },
+  {
+    "homework": 5,
+    "file": "homeworks/hw-05/reports/figures/StepQ1_ypym.png"
+  },
+  {
+    "homework": 5,
+    "file": "homeworks/hw-05/reports/figures/StepQ2_ypym.png"
+  },
+  {
+    "homework": 5,
+    "file": "homeworks/hw-05/reports/figures/StepQ3_ypym.png"
+  },
+  {
+    "homework": 5,
+    "file": "homeworks/hw-05/reports/figures/SysQ1.png"
+  },
+  {
+    "homework": 5,
+    "file": "homeworks/hw-05/reports/figures/SysQ2.png"
+  },
+  {
+    "homework": 5,
+    "file": "homeworks/hw-05/reports/figures/WhiteNoiseQ1_ypym.png"
+  },
+  {
+    "homework": 5,
+    "file": "homeworks/hw-05/reports/figures/WhiteNoiseQ2_ypym.png"
+  },
+  {
+    "homework": 6,
+    "file": "homeworks/hw-06/reports/figures/Part1OPA_1.png"
+  },
+  {
+    "homework": 6,
+    "file": "homeworks/hw-06/reports/figures/Part1OPA_2.png"
+  },
+  {
+    "homework": 6,
+    "file": "homeworks/hw-06/reports/figures/Part1OPA_3.png"
+  },
+  {
+    "homework": 6,
+    "file": "homeworks/hw-06/reports/figures/Part1PA_1.png"
+  },
+  {
+    "homework": 6,
+    "file": "homeworks/hw-06/reports/figures/Part1PA_2.png"
+  },
+  {
+    "homework": 6,
+    "file": "homeworks/hw-06/reports/figures/Part1PA_3.png"
+  },
+  {
+    "homework": 6,
+    "file": "homeworks/hw-06/reports/figures/Part1RLS_1.png"
+  },
+  {
+    "homework": 6,
+    "file": "homeworks/hw-06/reports/figures/Part1RLS_2.png"
+  },
+  {
+    "homework": 6,
+    "file": "homeworks/hw-06/reports/figures/Part1RLS_3.png"
+  },
+  {
+    "homework": 6,
+    "file": "homeworks/hw-06/reports/figures/Part2Covariance_1.png"
+  },
+  {
+    "homework": 6,
+    "file": "homeworks/hw-06/reports/figures/Part2Covariance_2.png"
+  },
+  {
+    "homework": 6,
+    "file": "homeworks/hw-06/reports/figures/Part2Covariance_3.png"
+  },
+  {
+    "homework": 6,
+    "file": "homeworks/hw-06/reports/figures/Part2Exponential_1.png"
+  },
+  {
+    "homework": 6,
+    "file": "homeworks/hw-06/reports/figures/Part2Exponential_2.png"
+  },
+  {
+    "homework": 6,
+    "file": "homeworks/hw-06/reports/figures/Part2Exponential_3.png"
+  },
+  {
+    "homework": 6,
+    "file": "homeworks/hw-06/reports/figures/Part2Selective_1.png"
+  },
+  {
+    "homework": 6,
+    "file": "homeworks/hw-06/reports/figures/Part2Selective_2.png"
+  },
+  {
+    "homework": 6,
+    "file": "homeworks/hw-06/reports/figures/Part2Selective_3.png"
+  },
+  {
+    "homework": 6,
+    "file": "homeworks/hw-06/reports/figures/Part3Modification_1.png"
+  },
+  {
+    "homework": 6,
+    "file": "homeworks/hw-06/reports/figures/Part3Modification_2.png"
+  },
+  {
+    "homework": 6,
+    "file": "homeworks/hw-06/reports/figures/Part3Modification_3.png"
+  },
+  {
+    "homework": 6,
+    "file": "homeworks/hw-06/reports/figures/Part3OPA_1.png"
+  },
+  {
+    "homework": 6,
+    "file": "homeworks/hw-06/reports/figures/Part3OPA_2.png"
+  },
+  {
+    "homework": 6,
+    "file": "homeworks/hw-06/reports/figures/Part3OPA_3.png"
+  },
+  {
+    "homework": 6,
+    "file": "homeworks/hw-06/reports/figures/Part3PA_1.png"
+  },
+  {
+    "homework": 6,
+    "file": "homeworks/hw-06/reports/figures/Part3PA_2.png"
+  },
+  {
+    "homework": 6,
+    "file": "homeworks/hw-06/reports/figures/Part3PA_3.png"
+  },
+  {
+    "homework": 6,
+    "file": "homeworks/hw-06/reports/figures/Part3RLS_1.png"
+  },
+  {
+    "homework": 6,
+    "file": "homeworks/hw-06/reports/figures/Part3RLS_2.png"
+  },
+  {
+    "homework": 6,
+    "file": "homeworks/hw-06/reports/figures/Part3RLS_3.png"
+  }
+]

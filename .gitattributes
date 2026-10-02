@@ -1,0 +1,12 @@
+*.md text eol=lf
+*.py text eol=lf
+*.json text eol=lf
+*.m text eol=lf
+archive/** -text
+*.slx binary
+*.mlx binary
+*.pdf binary
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.jfif binary

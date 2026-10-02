@@ -1,0 +1,24 @@
+# MATLAB/Simulink generated files
+slprj/
+*.slxc
+*.asv
+*.autosave
+*.slx.r*
+*.mex*
+codegen/
+*_ert_rtw/
+*_grt_rtw/
+# LaTeX generated products; supplied PDFs and source figures are retained
+*.aux
+*.log
+*.out
+*.synctex.gz
+*.toc
+*.fls
+*.fdb_latexmk
+# Local packaging/runtime products
+__pycache__/
+*.pyc
+.venv/
+*.zip
+*.rar
